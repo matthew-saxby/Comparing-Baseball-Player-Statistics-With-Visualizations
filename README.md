@@ -1,5 +1,5 @@
 # Comparing-Baseball-Player-Statistics-With-Visualizations
-A project I completed in a DataCamp Course! hdhdhdhdhdh
+A project I completed in a DataCamp Course!
 
 ![image](/judge_wide.jpg)
 
